@@ -23,7 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-#Files not in git
-
-node_modules/
-package.json
